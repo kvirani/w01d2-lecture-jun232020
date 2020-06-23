@@ -68,6 +68,18 @@ goes through each and prints out the sum of them.
 
 ## Recap & Takeaways [5m]
 
+- Focus on errors (errors are your friend) ie error driven development
+- Note: EDD is part of working incrementally. Working incrementally 
+- Not everything needs to be in a function (some code outside a function)
+- Writing pseudocode before writing code
+- Learn through investigating (in your existing program/code or `node` (REPL))
+  - Documentation is your friend, and so are mentors, but investigation up front is also great!
+- KV finishes lectures late
+- Getting comfortable with scopes in JS, but it will take some time to get fully comfortable with scoping
+- Git 
+  - Avoid git add . (bad habbit)
+  - Use git status religiously (all the time)
+
 ## Closing Comments [5m]
 
 - Lecture notes coming up
